@@ -1,4 +1,4 @@
 p990learningtodev
 =================
 
-development learning
+I'm just start learning development things
